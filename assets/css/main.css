@@ -117,12 +117,12 @@ a {
   text-decoration: none; }
   a:hover {
     border-bottom-color: #f56a6a;
-    color: #f56a6a !important; }
+    color: #3d4449 !important; }
     a:hover strong {
       color: inherit; }
 
 strong, b {
-  color: #3d4449;
+  color: #f56a6a;
   font-weight: 600; }
 
 em, i {
