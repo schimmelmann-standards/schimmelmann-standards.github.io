@@ -116,14 +116,17 @@ a {
   color: #f56a6a;
   text-decoration: none; }
   a:hover {
-    border-bottom-color: #f56a6a;
+    border-bottom-color: #3d4449;
     color: #3d4449 !important; }
     a:hover strong {
       color: inherit; }
 
 strong, b {
-  color: #f56a6a;
+  color: #3d4449;
   font-weight: 600; }
+
+a, strong, b {
+  color: #f56a6a !important; }
 
 em, i {
   font-style: italic; }
